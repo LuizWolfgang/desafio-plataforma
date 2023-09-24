@@ -8,11 +8,11 @@
 ![Screen Shot 2023-09-24 at 19 48 05](https://github.com/LuizWolfgang/desafio-plataforma/assets/74063154/997ea238-048f-4b6a-a524-43e9a723fd3c)
 
 
-#INSTALE AS DEPENDÊNCIAS
+#INSTALE AS DEPENDÊNCIAS:
 yarn install
 
-#EXECUTE O PROJETO
+#EXECUTE O PROJETO:
 yarn start
 
-#ABRIR O PROJETO
+#ABRIR O PROJETO:
 pressione no terminal a tecla A
