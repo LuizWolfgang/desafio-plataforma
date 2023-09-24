@@ -37,7 +37,7 @@ export const data = [
     instructor: "Andre",
     duration: "60h",
     imageSource:
-      "https://www.insper.edu.br/wp-content/uploads/2023/04/Linguagen-de-programacao-2-shutterstock_1680857539.jpg.jpeg",
+      "https://br.blogthinkbig.com/wp-content/uploads/sites/6/2016/01/20cursosprograma%C3%A7%C3%A3o1.png?resize=610%2C225",
     lessons: [
       {
         lesson: "Aula 1",
